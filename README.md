@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evan113&repo=github-readme-stats)](https://github.com/evan113/github-readme-stats)
 
 
-api/top-langs?username=evan113
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evan113)](https://github.com/evan113/github-readme-stats)

@@ -1,14 +1,15 @@
 ### Hi, I'm Evan A. Valdes 
-# Social Psychology PhD student at [Massey University](https://www.massey.ac.nz/)
+
+- I'm a Social Psychology PhD student at [Massey University](https://www.massey.ac.nz/)
 
 - 🔭 I’m currently working on my thesis titled "Investigating the cross-cultural differences of categorical thinking on system justification: Implications for Socioeconomic status, political identity, and life satisfaction" 
-- 
+
 - ✨ My research interests intersect the topic of cross-cultural, political, and social psychology as well as intergroup relations. Outside of my thesis, I have a couple of projects exploring status legitimacy effects and cultural and identity based differences in vaccine hesitancy.
-- 
-- 👯 I’m looking to collaborate on projects relating to intergroup relations and conflict
-- 
-- - 🌱 Here is my [Link Tree](https://linktr.ee/evanavaldes)
-- 
+
+- 👯 I’m looking to collaborate on projects relating to intergroup relations, categorical thinking and conflict
+
+-  🌱 Here is my [Link Tree](https://linktr.ee/evanavaldes)
+
 - 📫 How to reach me: E.valdes@massey.ac.nz or Valdespsychology@gmail.com
 <!--
 **evan113/evan113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

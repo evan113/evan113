@@ -24,4 +24,11 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan113&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/evan113/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evan113)](https://github.com/evan113/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evan113&layout=compact&theme=tokyonight)](https://github.com/evan113/github-readme-stats)
+
+<a href="https://github.com/evan113/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=evan113&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/evan113/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=evan113&repo=convoychat" />
+</a>

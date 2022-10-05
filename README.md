@@ -1,4 +1,4 @@
-### Hi there
+## Hi there
 
 - I'm a Social Psychology PhD student at [Massey University](https://www.massey.ac.nz/)
 
@@ -8,9 +8,11 @@
 
 - 👯 I’m looking to collaborate on projects relating to intergroup relations, categorical thinking and conflict
 
--  🌱 Here is my [Link Tree](https://linktr.ee/evanavaldes)
+-  🌱 Connect with me on [Link Tree](https://linktr.ee/evanavaldes)
 
 - 📫 How to reach me: E.valdes@massey.ac.nz or Valdespsychology@gmail.com
+
+⚡ Fun fact: I love to play :tennis: and hike :mountain:
 <!--
 **evan113/evan113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

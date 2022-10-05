@@ -1,4 +1,4 @@
-### Hi, I'm Evan A. Valdes 
+### Hi there
 
 - I'm a Social Psychology PhD student at [Massey University](https://www.massey.ac.nz/)
 

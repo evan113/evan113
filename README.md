@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evan113&repo=github-readme-stats)](https://github.com/evan113/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan113)](https://github.com/evan113/github-readme-stats)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evan113)](https://github.com/evan113/github-readme-stats)

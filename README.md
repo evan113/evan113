@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Evan A. Valdes
 ### Social, Political, and Cross-Cultural Psychology Research
-![Psychology Research](https://media-exp1.licdn.com/dms/image/C4D16AQF6r8DyFYF79A/profile-displaybackgroundimage-shrink_350_1400/0/1602527929000?e=1670457600&v=beta&t=IIgj6Esj_JW1w9MA-QoQHG7ULIVsuj1OL1O7czMQtDk)
 
 I'm a Social Psychology Ph.D. student at [Massey University](https://www.massey.ac.nz/) in Auckland New Zealand. I'm originally from Boston Massachusetts.
 

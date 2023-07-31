@@ -6,7 +6,7 @@ I'm a Social Psychology Ph.D. student at [Massey University](https://www.massey.
 Skills: R / Rstudio / Python / SPSS / AMOS
 
 - 🔭 I’m currently working on my thesis titled "Investigating the cross-cultural differences of categorical thinking on system justification: Implications for Socioeconomic status, political identity, and life satisfaction"  
-- 👯 I’m looking to collaborate on projects relating to intergroup relations, categorical thinking and conflict 
+- 👯 I’m looking to collaborate on projects relating to intergroup relations, system justification, collective action, conspiratorial beliefs, and conflict 
 - 📫 How to reach me:  E.valdes@massey.ac.nz or Valdespsychology@gmail.com 
 - ⚡ Fun fact: I love to play :tennis: and hike :mountain: 
 

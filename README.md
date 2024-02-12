@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Evan A. Valdes
 ### Social, Political, and Cross-Cultural Psychology Research
 
-I'm a Social Psychology Ph.D. candidate and graduate assistant at [Massey University's School of Psychology](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=140822) in Auckland New Zealand. My research interests include the topics of social, political, cross-cultural psychology, and intergroup relations. I'm originally from Boston Massachusetts.
+I'm a Social Psychology Ph.D. candidate and assistant lecturer at [Massey University's School of Psychology](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=140822) in Auckland New Zealand. My research interests include the topics of social, political, cross-cultural psychology, and intergroup relations. I'm originally from Boston Massachusetts.
 
 Skills: R / Rstudio / Python / SPSS / AMOS
 

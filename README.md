@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Evan A. Valdes
 ### Social, Political, and Cross-Cultural Psychology Research
 
-I'm a Social Psychology Ph.D. candidate and Assistant Lecturer at [Massey University's School of Psychology](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=140822) in Auckland New Zealand. My research interests include the topics of social, political, cross-cultural psychology, and intergroup relations. I'm originally from Boston Massachusetts.
+I'm a Social Psychology Ph.D. candidate and Assistant Lecturer at [Massey University's School of Psychology](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=140822) in Auckland, New Zealand. My research interests include the topics of social, political, cross-cultural psychology, and intergroup relations. I'm originally from Boston, Massachusetts.
 
-Skills: R / Rstudio / Python / SPSS / AMOS
+Skills: R / Python / R Studio / Positron / SPSS / AMOS
 
 - 🔭 I’m currently working on my thesis titled ["Investigating the Cross-Cultural Differences of Categorical Thinking on System Justification: Implications for Socioeconomic Status, Political Identity, and Life Satisfaction"](https://www-404.massey.ac.nz/massey/expertise/phd-student-profiles/doctoral-my-story.cfm?studid=FO4vb17fz9U%3D), through the lens of System Justification Theory, explores the underlying cross-cultural differences in system-justifying motivations and mechanisms that influence individuals to perform both normative and non-normative forms of collective action. With my clinical background, I am able to weave social psychological theory into intrapersonal psychological phenomena. My most recent paper has been featured on the [Asian Journal of Social Psychology Editors Podcast](https://ajsp-editors-podcast.castos.com/episodes/episode-10-2023). I am also a member of the [Ending Poverty and Inequality Lab (EPIC)](https://www.massey.ac.nz/about/colleges-schools-and-institutes/college-of-humanities-and-social-sciences/research-in-the-college-of-humanities-and-social-sciences/psychology-research/ending-poverty-and-inequality-cluster-epic/)
   
